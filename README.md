@@ -1,5 +1,5 @@
 # Códigos Simples 
-obs: Colocar o site em inglês 
+OBS: Colocar o site em inglês 
 |Códigos | Funções|
 |--------|--------|
 git config|Configurações 
